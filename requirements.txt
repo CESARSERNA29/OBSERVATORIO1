@@ -1,6 +1,9 @@
 streamlit
-matplotlib
 pandas
 numpy
+matplotlib
 seaborn
-sklearn
+scikit-learn
+plotly
+geopandas
+pydeck
