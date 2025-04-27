@@ -3,6 +3,4 @@ matplotlib
 pandas
 numpy
 seaborn
-sklearn.linear_model
-sklearn.model_selection
-sklearn.metrics
+sklearn
